@@ -21,6 +21,11 @@ En este taller aprenderas los fundamentos de diseño de interfaces con figma. El
 
 ## Recursos :
 
+* [Figma Courses](https://www.figma.com/resources/courses/)
+* [Learn design with figma ](https://www.figma.com/resources/learn-design/)
+* [Figma Tutorial para Principiantes](https://butteracademy.com/figma-tutorial-beginners)
+* [Free Figma Classes and Courses (Skillshare)](https://www.skillshare.com/browse/figma)
+
 
 
 ## Contribuciones :
